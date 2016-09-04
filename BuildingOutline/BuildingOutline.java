@@ -54,6 +54,7 @@ public class Solution {
         return output(result);
         
     }
+    //Convert output
     private ArrayList<ArrayList<Integer>> output(ArrayList<ArrayList<Integer>> input) {
         ArrayList<ArrayList<Integer>> result = new ArrayList<>();
         for (int i = 0; i < input.size() - 1; i++) {
