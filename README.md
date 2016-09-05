@@ -5,4 +5,4 @@
 
 ===
 ## Arrays
-1. [Two Sum II]
+1. [Two Sum II](https://github.com/jiapengliu613/LintCode/tree/master/TwoSumII) (two pointers)
