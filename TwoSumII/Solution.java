@@ -5,8 +5,8 @@ public class Solution {
      * @return: an integer
      */
     public int twoSum2(int[] nums, int target) {
-        // Write your code here
-        /*
+        
+        //O(n²) time complexity, some unnecessary repeated check of start and end pair
         if (nums == null || nums.length == 0) {
             return 0;
         }
@@ -26,11 +26,17 @@ public class Solution {
             }
         }
         return count;
-        */
-        Arrays.sort(nums);
+        
+        
+        
+        
+        
+        //O(n) time complexity
+        
         if (nums == null || nums.length == 0) {
             return 0;
         }
+        Arrays.sort(nums);
         int start = 0, end = nums.length - 1;
         int count = 0;
         while (start < end) {
