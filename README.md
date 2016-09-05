@@ -7,3 +7,4 @@
 ## Arrays
 1. [Two Sum II](https://github.com/jiapengliu613/LintCode/tree/master/TwoSumII) (two pointers)
 2. [Trinagle Count](https://github.com/jiapengliu613/LintCode/tree/master/TriangleCount) (two pointers) **Need Review**
+3. [TrappingRainWater](https://github.com/jiapengliu613/LintCode/tree/master/TrappingRainWater) (two pointers)
