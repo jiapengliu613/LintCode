@@ -4,6 +4,10 @@ class Solution {
      * @param nums : array of nums
      * @return: description of return
      */
+     /* 
+     Idea : Use quick select method, first partitio the array, if the index of pivot is larger than k, then only need to partition 
+     the front part of the array, else partition the back part of the array. Big O is O(n).
+     */
     public int kthLargestElement(int k, int[] nums) {
         // write your code here
         if (nums == null || nums.length == 0) {
