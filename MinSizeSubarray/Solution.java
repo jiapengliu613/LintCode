@@ -7,7 +7,7 @@ public class Solution {
      
      /* 
      Idea : If the sum from i to right is smaller than s, then the sum from i + 1 to right must be smaller than s, so this method
-     uses one loop and can avoid unnecessary repeatation, the big O is O(n).
+     uses one loop and can avoid unnecessary repeatation, and the big O is O(n).
      the repeatation
      */
     public int minimumSize(int[] nums, int s) {
