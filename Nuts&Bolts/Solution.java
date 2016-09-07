@@ -7,6 +7,9 @@
  * it will return 0, else if "a" is smaller than "b", it will return -1.
  * When "a" is not a nut or "b" is not a bolt, it will return 2, which is not valid.
 */
+/*
+Idea: Use nut as a pivot to quicksort bolts, and use the corresponding bolt pivot to quicksort nut, until the two arrays are sorted
+*/
 public class Solution {
     /**
      * @param nuts: an array of integers
