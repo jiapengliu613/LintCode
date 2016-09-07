@@ -5,6 +5,8 @@ public class Solution {
      * @return: A string denote the minimum window
      *          Return "" if there is no such a string
      */
+     /*Use hashmap to record the frequency of a char appears, TLE in leetcode*/
+     
     public String minWindow(String source, String target) {
         // write your code
         if (source == null || target == null || source.length() < target.length()) {
@@ -64,6 +66,60 @@ public class Solution {
             if (!source.containsKey(entry.getKey()) || source.get(entry.getKey()) < (Integer)entry.getValue()) {
                 return false;
             } 
+        }
+        return true;
+    }
+}
+/*Array version*/
+public class Solution {
+    /**
+     * @param source: A string
+     * @param target: A string
+     * @return: A string denote the minimum window
+     *          Return "" if there is no such a string
+     */
+    public String minWindow(String source, String target) {
+        // write your code
+        if (source == null || target == null || source.length() < target.length()) {
+            return "";
+        }
+        int[] sourceMap = new int[256];
+        int[] targetMap = new int[256];
+        for (char c : target.toCharArray()) {
+            targetMap[c]++;
+        }
+        int j = 0;
+        int min = Integer.MAX_VALUE;
+        String result = "";
+        for (int i = 0; i < source.length(); i++) {
+            while (j < source.length()) {
+                if (!isLarger(sourceMap, targetMap)) {
+                    sourceMap[source.charAt(j)]++;
+                    j++;
+                } else {
+                    break;
+                }
+            }
+            if (isLarger(sourceMap, targetMap)) {
+                if (min > j - i) {
+                    min = j - i;
+                    result = source.substring(i,j);
+                }
+            }
+                
+            sourceMap[source.charAt(i)]--;
+        }
+        if (min != Integer.MAX_VALUE) {
+            return result;
+        }
+        return "";
+    }
+    public boolean isLarger(int[] source, int[] target) {
+        for (int i = 0; i < source.length; i++) {
+            if (source[i] < target[i]) {
+                return false;
+            }
+            
         }
         return true;
     }
