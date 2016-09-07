@@ -13,4 +13,4 @@
 6. [Nuts&Bolts](https://github.com/jiapengliu613/LintCode/tree/master/Nuts%26Bolts) (quick select) **Need Review**
 7. [MinSizeSubArray](https://github.com/jiapengliu613/LintCode/tree/master/MinSizeSubarray) (subarray window)
 8. [Longest Substring Without Repeating Characters](https://github.com/jiapengliu613/LintCode/tree/master/LongestSubstringWithoutRepeatingCharacters)(substring window method)
-9. [MinimumWindowSubstring](https://github.com/jiapengliu613/LintCode/tree/master/MinimumWindowSubstring)
+9. [MinimumWindowSubstring](https://github.com/jiapengliu613/LintCode/tree/master/MinimumWindowSubstring) [**Template for substring problem**](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)
