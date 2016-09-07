@@ -3,6 +3,9 @@ public class Solution {
      * @param s: a string
      * @return: an integer 
      */
+     /*
+     Use set to record wheather a char is repeated, the outer loop repeats once and the inner loop repeats once, so big O is O(n)
+     */
     public int lengthOfLongestSubstring(String s) {
         // write your code here
         if (s == null || s.length() == 0) {
