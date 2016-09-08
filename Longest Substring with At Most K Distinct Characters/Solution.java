@@ -4,6 +4,7 @@ public class Solution {
      * @return : The length of the longest substring 
      *           that contains at most k distinct characters.
      */
+     /* This solution needs to update result in while loop, which can be modified by modifying the judgement condition */ 
     public int lengthOfLongestSubstringKDistinct(String s, int k) {
         // write your code here
         if (s == null || s.length() == 0) {
