@@ -21,3 +21,4 @@
 ===
 ## Dynamic Programming 
 1. [HouseRobber](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobber) (Rolling Array)
+2. [HouseRobberII](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobberII) (Rolling Array)
