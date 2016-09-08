@@ -17,3 +17,7 @@
 10. [ LongestSubstringwithatMostkDistinct Characters](https://github.com/jiapengliu613/LintCode/blob/master/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/Solution.java)
 11. [TheSmallestDifference](https://github.com/jiapengliu613/LintCode/tree/master/TheSmallestDifference) (Binary Search)
 12. [MergeTwoSortedLists](https://github.com/jiapengliu613/LintCode/tree/master/Merge%20Two%20Sorted%20Lists)
+
+===
+## Dynamic Programming 
+1. [HouseRobber](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobber) (Rolling Array)
