@@ -3,6 +3,7 @@ public class Solution {
      * @param nums: An array of non-negative integers.
      * return: The maximum amount of money you can rob tonight
      */
+     /* Idea : divide the array into 2 pieces, from 0 to n - 1 and from 1 to n, and use HouseRobber solution
     public int houseRobber2(int[] nums) {
         // write your code here
         if (nums == null || nums.length == 0) {
