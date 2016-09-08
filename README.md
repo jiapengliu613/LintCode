@@ -20,5 +20,6 @@
 
 ===
 ## Dynamic Programming 
-1. [HouseRobber](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobber) (Rolling Array)
-2. [HouseRobberII](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobberII) (Rolling Array)
+1. [HouseRobber](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobber) (Rolling Array/Sequence Type)
+2. [HouseRobberII](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobberII) (Rolling Array/Sequence Type)
+3. [ClimbingStairs](https://github.com/jiapengliu613/LintCode/tree/master/ClimbingStairs) (Rolling Array/Coordinate Type)
