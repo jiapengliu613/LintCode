@@ -48,3 +48,53 @@ public class Solution {
         return count <= k;
     }
 }
+/* Another version */
+public class Solution {
+    /**
+     * @param s : A string
+     * @return : The length of the longest substring 
+     *           that contains at most k distinct characters.
+     */
+    public int lengthOfLongestSubstringKDistinct(String s, int k) {
+        // write your code here
+        if (s == null || s.length() == 0) {
+            return 0;
+        }
+        if (s.length() <= k) {
+            return s.length();
+        }
+        int j = 0;
+        int result = 0;
+        int[] hash = new int[256];
+        for (int i = 0; i < s.length(); i++) {
+            while (j < s.length()) {
+                if (hash[s.charAt(j)] != 0) {
+                    hash[s.charAt(j)]++;
+                    
+                } else {
+                    if (isK(k, hash)) {
+                        break;
+                    }
+                    hash[s.charAt(j)]++;
+                }
+                j++;
+            }
+            if (result < j - i) {
+                result = j - i;
+            }
+        
+            hash[s.charAt(i)]--;
+           // System.out.print(j);
+        }
+        return result;
+    }
+    boolean isK(int k, int[] hash) {
+        int count = 0;
+        for (int i = 0; i < hash.length; i++) {
+            if (hash[i] != 0) {
+                count++;
+            }
+        }
+        return count == k;
+    }
+}
