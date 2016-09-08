@@ -3,6 +3,7 @@ public class Solution {
      * @param A, B: Two integer arrays.
      * @return: Their smallest difference.
      */
+     /* for each element in A, use binary search to find the smallest difference in B, so the big O is O(nlog(n)) */
     public int smallestDifference(int[] A, int[] B) {
         // write your code here
         if (A == null || B == null || A.length == 0 || B.length == 0) {
