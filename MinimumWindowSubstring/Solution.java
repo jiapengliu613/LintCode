@@ -5,7 +5,7 @@ public class Solution {
      * @return: A string denote the minimum window
      *          Return "" if there is no such a string
      */
-     /*Use hashmap to record the frequency of a char appears, TLE in leetcode*/
+     /*Use hashmap to record the frequency of a char appears, TLE in leetcode which is because of the use of count and substr .etc*/
      
     public String minWindow(String source, String target) {
         // write your code
