@@ -15,3 +15,4 @@
 8. [Longest Substring Without Repeating Characters](https://github.com/jiapengliu613/LintCode/tree/master/LongestSubstringWithoutRepeatingCharacters)(substring window method)
 9. [MinimumWindowSubstring](https://github.com/jiapengliu613/LintCode/tree/master/MinimumWindowSubstring) [**Template for substring problem**](https://discuss.leetcode.com/topic/30941/here-is-a-10-line-template-that-can-solve-most-substring-problems)
 10. [ LongestSubstringwithatMostkDistinct Characters](https://github.com/jiapengliu613/LintCode/blob/master/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/Solution.java)
+11. [TheSmallestDifference](https://github.com/jiapengliu613/LintCode/tree/master/TheSmallestDifference) (Binary Search)
