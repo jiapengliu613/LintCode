@@ -31,7 +31,8 @@
 5. [Maximal Rectangle](https://github.com/jiapengliu613/LintCode/tree/master/Problems/MaximalRectangle) (`Coordinate Type`) **Need Review**      
    *Related Problem* : [Largest Rectangle In Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram)
 6. [Longest Increasing Continuous Subsequence](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20Subsequence)   
-  *Related Problem* : [*Related Problem* : [Largest Rectangle In Histogram 2D]
+  *Related Problem* :  [Largest Rectangle In Histogram II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II)
+7. [Largest Rectangle In Histogram II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II) (`Memory Search`) **Need Review**
 
 
 
