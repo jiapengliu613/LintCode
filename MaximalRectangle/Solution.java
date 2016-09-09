@@ -3,6 +3,7 @@ public class Solution {
      * @param matrix a boolean 2D matrix
      * @return an integer
      */
+     //Idea: http://www.cnblogs.com/lichen782/p/leetcode_maximal_rectangle.html bigO is O(m²n²), TLE in lintcode, use dp to optimize
     public int maximalRectangle(boolean[][] matrix) {
         // Write your code here
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
@@ -30,4 +31,67 @@ public class Solution {
         }
         return result;
     }
+}
+// DP  solution
+//Idea : preprocess the dp array, dp[i][j] records how many '1' exist before(i,j). Use dp[i][j] as width, and go upwards and downword 
+// to find the maximum height. big O is O(m*n*m). AC in leetcode but still TLE in lintcode
+public class Solution {
+    /**
+     * @param matrix a boolean 2D matrix
+     * @return an integer
+     */
+    public int maximalRectangle(boolean[][] matrix) {
+        // Write your code here
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
+            return 0;
+        }
+        int m = matrix.length, n = matrix[0].length;
+        int[][] dp = new int[m][n];
+        
+        
+        for (int i = 0; i < m; i++) {
+            if (matrix[i][0] == true) {
+                dp[i][0] = 1;
+            }
+            for (int j = 1; j < n; j++) {
+                if (matrix[i][j] == false) {
+                    dp[i][j] = 0;
+                } else {
+                    dp[i][j] = dp[i][j - 1] + 1;
+                }
+            }
+        }
+        int result = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                result = Math.max(result, maxHisto(dp, i, j));
+            }
+        }
+        return result;
+    }
+    
+    public int maxHisto(int[][] d, int I, int J) {
+        
+        int height = 0;
+        int curWidth = dp[row][column];
+        
+        for (int i = row - 1; i >= 0; i--) {
+            if (dp[i][column] >= curWidth) {
+                height++;
+            } else {
+                break;
+            }
+        }
+        for (int i = row; i < dp.length; i++) {
+            if (dp[i][column] >= curWidth) {
+                height++;
+            } else {
+                break;
+            }
+        }
+        return curWidth * height;
+        
+    }
+        
+    
 }
