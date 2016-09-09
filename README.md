@@ -24,7 +24,8 @@
 2. [HouseRobberII](https://github.com/jiapengliu613/LintCode/tree/master/HouseRobberII) (Rolling Array/Sequence Type)
 3. [ClimbingStairs](https://github.com/jiapengliu613/LintCode/tree/master/ClimbingStairs) (Rolling Array/Coordinate Type)
 4. [MaximalSquare](https://github.com/jiapengliu613/LintCode/tree/master/MaximalSquare)(Rolling Array/Coordinate Type)
-5. [MaximalRectangle](https://github.com/jiapengliu613/LintCode/tree/master/MaximalRectangle) (Coordinate Type)
+5. [MaximalRectangle](https://github.com/jiapengliu613/LintCode/tree/master/MaximalRectangle) (Coordinate Type)      
+   Related Problem : [LargestRectangleinHistogram](https://github.com/jiapengliu613/LintCode/tree/master/Largest%20Rectangle%20in%20Histogram)
 
 ===
 ## Data Structure
