@@ -1,5 +1,5 @@
-# LintCode #
-## Data Structure
+# LintCode 
+## Data Structure 
 ### Heap/HashHeap
 1. [Planes In The Sky](https://github.com/jiapengliu613/LintCode/tree/master/Problems/PlanesInTheSky) (`sweep line/heap`)
 2. [Building OutLine](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BuildingOutline) (`heap/hashheap`)  **Need Review**
