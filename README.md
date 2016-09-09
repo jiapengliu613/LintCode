@@ -1,7 +1,11 @@
 # LintCode
 ## Data Structure
+### Heap/Hashheap
 1. [PlanesInTheSky](https://github.com/jiapengliu613/LintCode/tree/master/PlanesInTheSky) (sweep line/heap)
 2. [Building OutLine](https://github.com/jiapengliu613/LintCode/tree/master/BuildingOutline) (heap/hashheap)  **Need Review**
+
+### Stack
+1. [LargestRectangleinHistogram](https://github.com/jiapengliu613/LintCode/tree/master/Largest%20Rectangle%20in%20Histogram) (Monotone Stack) **Need Review**
 
 ===
 ## Arrays
@@ -27,7 +31,5 @@
 5. [MaximalRectangle](https://github.com/jiapengliu613/LintCode/tree/master/MaximalRectangle) (Coordinate Type) **Need Review**      
    Related Problem : [LargestRectangleinHistogram](https://github.com/jiapengliu613/LintCode/tree/master/Largest%20Rectangle%20in%20Histogram)
 
-===
-## Data Structure
-### Stack
-1. [LargestRectangleinHistogram](https://github.com/jiapengliu613/LintCode/tree/master/Largest%20Rectangle%20in%20Histogram) (Monotone Stack) **Need Review**
+
+
