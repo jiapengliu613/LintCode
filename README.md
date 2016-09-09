@@ -32,7 +32,7 @@
    *Related Problem* : [Largest Rectangle In Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram)
 6. [Longest Increasing Continuous Subsequence](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20Subsequence)   
   *Related Problem* :  [Longest Increasing Continuous subsequence II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II)
-7. [Longest Increasing Continuous subsequence II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II) (`Memory Search`) **Need Review**
+7. [Longest Increasing Continuous subsequence II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II) (`Memorized Search`) **Need Review**
 
 
 
