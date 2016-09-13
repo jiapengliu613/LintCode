@@ -35,6 +35,7 @@
 7. [Longest Increasing Continuous subsequence II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II) (`Memorized Search`) **Need Review**
 8. [Coins In A Line](https://github.com/jiapengliu613/LintCode/tree/master/Problems/CoinsInALine) (`Game Theory`)
 9. [Coins In A Line II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/CoinsInaLine2) (`Memorized Search/Game Theory`)  **Need Review**
+10. [Coins In A Line III](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Coins%20in%20a%20Line%20III) (`Memorized Search/Game Theory`)  **Need Review**
 
 
 
