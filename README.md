@@ -34,6 +34,7 @@
   *Related Problem* :  [Longest Increasing Continuous subsequence II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II)
 7. [Longest Increasing Continuous subsequence II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Increasing%20Continuous%20subsequence%20II) (`Memorized Search`) **Need Review**
 8. [Coins In A Line](https://github.com/jiapengliu613/LintCode/tree/master/Problems/CoinsInALine) (`Game Theory`)
+9. [Coins In A Line II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/CoinsInaLine2) (`Memorized Search/Game Theory`)
 
 
 
