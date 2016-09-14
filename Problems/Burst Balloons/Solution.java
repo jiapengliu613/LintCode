@@ -3,6 +3,8 @@ public class Solution {
      * @param nums a list of integer
      * @return an integer, maximum coins
      */
+     // Pay attention to the state trasition equation, where midValue is array[left - 1] * array[i] * array[right + 1] instead of 
+     // array[i - 1] * array[i] * array[i + 1]
     public int maxCoins(int[] nums) {
         // Write your code here
         if (nums ==null || nums.length == 0) {
