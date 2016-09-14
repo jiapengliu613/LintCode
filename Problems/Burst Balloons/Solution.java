@@ -4,7 +4,7 @@ public class Solution {
      * @return an integer, maximum coins
      */
      // Pay attention to the state trasition equation, where midValue is array[left - 1] * array[i] * array[right + 1] instead of 
-     // array[i - 1] * array[i] * array[i + 1]
+     // array[i - 1] * array[i] * array[i + 1], because i is the last balloon to burst
     public int maxCoins(int[] nums) {
         // Write your code here
         if (nums ==null || nums.length == 0) {
