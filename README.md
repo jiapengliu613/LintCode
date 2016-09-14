@@ -38,6 +38,7 @@
 10. [Coins In A Line III](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Coins%20in%20a%20Line%20III) (`Memorized Search/Game Theory`)  **Need Review**
 11. [Stone Game](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Stone%20Game)(`Memorized Search/Interval Type`)  **Need Review**
 12. [Burst Balloons](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Burst%20Balloons)(`Memorized Search/Interval Type`) **Need Review**
+13. [Scramble String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Scramble%20String)(`Memorized Search/Interval Type`) **Need Review!**
 
 
 
