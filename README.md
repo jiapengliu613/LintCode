@@ -41,6 +41,7 @@
 13. [Scramble String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Scramble%20String)(`Memorized Search/Interval Type`) **Need Review!**
 14. [BackPack](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BackPack) (`Rolling Array/Backpack Type`)
 15. [BackPack II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BackPack%20II) (`Rolling Array/Backpack Type`)
+16. [k sum](https://github.com/jiapengliu613/LintCode/blob/master/Problems/kSum/Solution.java)(`Backpack Type`) **Need Review**
 
 
 
