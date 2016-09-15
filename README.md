@@ -40,6 +40,7 @@
 12. [Burst Balloons](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Burst%20Balloons)(`Memorized Search/Interval Type`) **Need Review**
 13. [Scramble String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Scramble%20String)(`Memorized Search/Interval Type`) **Need Review!**
 14. [BackPack](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BackPack) (`Rolling Array/Backpack Type`)
+15. [BackPack II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BackPack%20II) (`Rolling Array/Backpack Type`)
 
 
 
