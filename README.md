@@ -43,5 +43,10 @@
 15. [BackPack II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BackPack%20II) (`Rolling Array/Backpack Type`)
 16. [k sum](https://github.com/jiapengliu613/LintCode/blob/master/Problems/kSum/Solution.java)(`Rolling Array/Backpack Type`) **Need Review**
 
+===
+## Frequently Used Algorithm
+### Sort
+1. [QuickSort](https://github.com/jiapengliu613/LintCode/tree/master/Sort%20Algorithm)
+
 
 
