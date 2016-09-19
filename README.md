@@ -46,6 +46,10 @@
 17. [Minimum Adjustment Cost](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Minimum%20Adjustment%20Cost)(`Backpack Type`) **Need Review**
 
 ===
+## Binary Search
+1. [Find Peak Element](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Find%20Peak%20Element)
+
+===
 ## Frequently Used Algorithm
 ### Sort
 1. [QuickSort](https://github.com/jiapengliu613/LintCode/blob/master/Sort%20Algorithm/QuickSort.java)
