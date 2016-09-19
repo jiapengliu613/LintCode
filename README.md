@@ -47,7 +47,11 @@
 
 ===
 ## Binary Search
-1. [Find Peak Element](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Find%20Peak%20Element)
+1. [Find Peak Element](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Find%20Peak%20Element)        
+   *Follow up* : [Find Peak Element II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Find%20Peak%20Element%20II)
+2. [Find Peak Element II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Find%20Peak%20Element%20II)
+
+
 
 ===
 ## Frequently Used Algorithm
