@@ -15,7 +15,8 @@
 2. [Trinagle Count](https://github.com/jiapengliu613/LintCode/tree/master/Problems/TriangleCount) (`two pointers`) **Need Review**
 3. [Trapping Rain Water](https://github.com/jiapengliu613/LintCode/tree/master/Problems/TrappingRainWater) (`two pointers`)
 4. [Container With Most Water](https://github.com/jiapengliu613/LintCode/tree/master/Problems/ContainerWithMostWater) (`two pointers`)
-5. [Kth Largest Number](https://github.com/jiapengliu613/LintCode/tree/master/Problems/KthLargestNumber) (`quick select`) **Need Review**
+5. [Kth Largest Number](https://github.com/jiapengliu613/LintCode/tree/master/Problems/KthLargestNumber) (`quick select`) **Need Review**      
+   *Follow up* : [Kth Smallest Number in Sorted Matrix](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Kth%20Smallest%20Number%20in%20Sorted%20Matrix)
 6. [Nuts&Bolts](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Nuts%26Bolts) (`quick select`) **Need Review**
 7. [Min Size SubArray](https://github.com/jiapengliu613/LintCode/tree/master/Problems/MinSizeSubarray) (`subarray window`)
 8. [Longest Substring Without Repeating Characters](https://github.com/jiapengliu613/LintCode/tree/master/Problems/LongestSubstringWithoutRepeatingCharacters)(`substring window method`)
