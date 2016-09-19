@@ -46,7 +46,8 @@
 ===
 ## Frequently Used Algorithm
 ### Sort
-1. [QuickSort](https://github.com/jiapengliu613/LintCode/tree/master/Sort%20Algorithm)
+1. [QuickSort](https://github.com/jiapengliu613/LintCode/blob/master/Sort%20Algorithm/QuickSort.java)
+2. [MergeSort](https://github.com/jiapengliu613/LintCode/blob/master/Sort%20Algorithm/MergeSort.java)
 
 
 
