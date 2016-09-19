@@ -3,6 +3,7 @@
 ### Heap/HashHeap
 1. [Planes In The Sky](https://github.com/jiapengliu613/LintCode/tree/master/Problems/PlanesInTheSky) (`sweep line/heap`)
 2. [Building OutLine](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BuildingOutline) (`heap/hashheap`)  **Need Review**
+3. [Heapify](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Heapify)
 
 ### Stack
 1. [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram) (`Monotone Stack`) **Need Review**
