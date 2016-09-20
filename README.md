@@ -25,7 +25,7 @@
 11. [The Smallest Difference](https://github.com/jiapengliu613/LintCode/tree/master/Problems/TheSmallestDifference) (`Binary Search`)
 12. [Merge Two Sorted Lists](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Merge%20Two%20Sorted%20Lists)
 13. [Subarray Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subarray%20Sum) (`Prefix Sum`)  
-*Follow up*[Submatrix Sum] : (https://github.com/jiapengliu613/LintCode/tree/master/Problems/Submatrix%20Sum)
+*Follow up* : [Submatrix Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Submatrix%20Sum)
 14. [Submatrix Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Submatrix%20Sum)(`Prefix Sum`) **Need Review**
 
 ===
