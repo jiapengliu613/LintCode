@@ -24,7 +24,9 @@
 10. [ Longest Substring With At Most k Distinct Characters](https://github.com/jiapengliu613/LintCode/blob/master/Problems/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/Solution.java)
 11. [The Smallest Difference](https://github.com/jiapengliu613/LintCode/tree/master/Problems/TheSmallestDifference) (`Binary Search`)
 12. [Merge Two Sorted Lists](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Merge%20Two%20Sorted%20Lists)
-13. [Subarray Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subarray%20Sum) (`Prefix Sum`)
+13. [Subarray Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subarray%20Sum) (`Prefix Sum`)  
+*Follow up*[Submatrix Sum] : (https://github.com/jiapengliu613/LintCode/tree/master/Problems/Submatrix%20Sum)
+14. [Submatrix Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Submatrix%20Sum)(`Prefix Sum`) **Need Review**
 
 ===
 ## Dynamic Programming 
