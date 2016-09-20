@@ -3,6 +3,7 @@ public class Solution {
      * @param A an integer array
      * @return  A list of integers includes the index of the first number and the index of the last number
      */
+     // O(n^2), TLE in lintcode, use dp to optimize it to O(n)
     public ArrayList<Integer> continuousSubarraySum(int[] A) {
         // Write your code here
         ArrayList<Integer> result = new ArrayList<>(2);
