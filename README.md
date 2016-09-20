@@ -28,6 +28,7 @@
 *Follow up* : [Submatrix Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Submatrix%20Sum)
 14. [Submatrix Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Submatrix%20Sum)(`Prefix Sum`) **Need Review**
 15. [Subarray Sum II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subarray%20Sum%20II)(`Prefix Sum`)
+16. [Continuous Subarray Sum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Continuous%20Subarray%20Sum)(`Prefix Sum/DP`)
 
 ===
 ## Dynamic Programming 
