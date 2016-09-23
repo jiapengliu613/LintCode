@@ -49,7 +49,9 @@ public class Solution {
                 nums[i] = i % 2 == 0 ? tmp[left--] : tmp[right--];
             }
         }
+        
         return ;
+        
     }
     private int quickSelect(int[] nums, int start, int end, int mid) {
         if (start >= end) {
