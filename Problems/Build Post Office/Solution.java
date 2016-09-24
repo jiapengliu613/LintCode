@@ -1,3 +1,4 @@
+// bigO is O(m * n * k), TLE in LintCode, use binary search to optimize
 class Number {
     int x;
     int y;
