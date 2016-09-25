@@ -1,4 +1,4 @@
-//O(k * m * n) solution, k is number of cells, TLE in LintCode
+//O(k * m * n) solution, k is number of cells, TLE in LintCode, use dp tp optimize
 
 class Pair {
     int x;
