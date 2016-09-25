@@ -1,3 +1,5 @@
+//O(k * m * n) solution, k is number of cells, TLE in LintCode
+
 class Pair {
     int x;
     int y;
