@@ -56,7 +56,8 @@
 15. [BackPack II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BackPack%20II) (`Rolling Array/Backpack Type`)
 16. [k sum](https://github.com/jiapengliu613/LintCode/blob/master/Problems/kSum/Solution.java)(`Rolling Array/Backpack Type`) **Need Review**
 17. [Minimum Adjustment Cost](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Minimum%20Adjustment%20Cost)(`Backpack Type`) **Need Review**
-18. [Bomb Enemy](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Bomb%20Enemy) **Need Review**
+18. [Bomb Enemy](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Bomb%20Enemy) **Need Review**  
+
 
 
 ===
@@ -65,7 +66,9 @@
    *Follow up* : [Find Peak Element II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Find%20Peak%20Element%20II)
 2. [Find Peak Element II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Find%20Peak%20Element%20II)
 3. [Build Post Office](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office) **Need Review**  
-*Follow up* : [Build Post Office II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office%20II)  
+*Follow up* : [Build Post Office II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office%20II)   
+*Follow up* : [Bomb Enemy](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Bomb%20Enemy)  
+
 
 ===
 ## BFS
