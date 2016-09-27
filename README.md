@@ -3,6 +3,7 @@
 ### Tree
 1. [Maximum Depth of Binary Tree](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Maximum%20Depth%20of%20Binary%20Tree) (`Recursion/Tree`)  
 2. [Balanced Binary Tree](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Balanced%20Binary%20Tree)(`Recursion/Tree`) 
+3. [Validate Binary Search Tree](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Validate%20Binary%20Search%20Tree) (`Recursion/Tree`)
 
 ### Heap/HashHeap
 1. [Planes In The Sky](https://github.com/jiapengliu613/LintCode/tree/master/Problems/PlanesInTheSky) (`sweep line/heap`)
