@@ -68,7 +68,8 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 15. [BackPack II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/BackPack%20II) (`Rolling Array/Backpack Type`)
 16. [k sum](https://github.com/jiapengliu613/LintCode/blob/master/Problems/kSum/Solution.java)(`Rolling Array/Backpack Type`) **Need Review**
 17. [Minimum Adjustment Cost](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Minimum%20Adjustment%20Cost)(`Backpack Type`) **Need Review**
-18. [Bomb Enemy](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Bomb%20Enemy) **Need Review**  
+18. [Bomb Enemy](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Bomb%20Enemy) **Need Review**    
+19. [Maximum Subarray](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Maximum%20Subarray) (`Rolling Array`)
 
 
 
