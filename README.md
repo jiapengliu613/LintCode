@@ -85,7 +85,11 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 
 ===
 ## BFS
-1. [Build Post Office II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office%20II) **Neew Review**
+1. [Build Post Office II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office%20II) **Neew Review**  
+
+===
+### DFS
+1. [Word Search](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Word%20Search)
 
 
 
