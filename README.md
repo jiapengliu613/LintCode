@@ -17,6 +17,7 @@
 5. [Kth Largest in N Arrays](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Kth%20Largest%20in%20N%20Arrays)
 6. [Kth Smallest Sum In Two Sorted Arrays](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Kth%20Smallest%20Sum%20In%20Two%20Sorted%20Arrays) **Need Review**  
 Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Kth%20Smallest%20Number%20in%20Sorted%20Matrix)
+7. [Data Stream Median](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Data%20Stream%20Median) **Need Review**
 
 ### Stack
 1. [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram) (`Monotone Stack`) **Need Review**
