@@ -25,7 +25,9 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 1. [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram) (`Monotone Stack`) **Need Review**  
 
 ### Deque
-1. [Sliding Window Maximum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Sliding%20Window%20Maximum) **Need Review**
+1. [Sliding Window Maximum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Sliding%20Window%20Maximum) (`Monotone stack`) **Need Review**  
+*Related Problem* : [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram)
+
 
 ===
 ## Arrays
