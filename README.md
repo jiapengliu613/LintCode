@@ -78,6 +78,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 17. [Minimum Adjustment Cost](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Minimum%20Adjustment%20Cost)(`Backpack Type`) **Need Review**
 18. [Bomb Enemy](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Bomb%20Enemy) **Need Review**    
 19. [Maximum Subarray](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Maximum%20Subarray) (`Rolling Array`)
+20. [Longest Palindromic Substring](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Palindromic%20Substring) **Need Review**
 
 
 
