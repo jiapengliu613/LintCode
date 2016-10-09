@@ -99,6 +99,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 ===
 ### DFS
 1. [Word Search](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Word%20Search)
+2. [Subsets](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subsets)
 
 
 
