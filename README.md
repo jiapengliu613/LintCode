@@ -102,6 +102,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 1. [Word Search](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Word%20Search)
 2. [Subsets](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subsets)
 3. [Subsets II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subsets%20II)
+4. [Generate Parentheses](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Generate%20Parentheses)
 
 
 
