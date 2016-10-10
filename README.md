@@ -106,6 +106,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 4. [Generate Parentheses](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Generate%20Parentheses)
 5. [Number of Ways to Represent N Cents](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Number%20of%20Ways%20to%20Represent%20N%20Cents)
 6. [Permutations](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Permutations)
+7. [Flatten Binary Tree to Linked List](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Flatten%20Binary%20Tree%20to%20Linked%20List) **Need Review**
 
 
 
