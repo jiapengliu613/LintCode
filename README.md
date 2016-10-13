@@ -107,7 +107,12 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 5. [Number of Ways to Represent N Cents](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Number%20of%20Ways%20to%20Represent%20N%20Cents)
 6. [Permutations](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Permutations)
 7. [Flatten Binary Tree to Linked List](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Flatten%20Binary%20Tree%20to%20Linked%20List) **Need Review**
-8. [k Sum II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/k%20Sum%20II)
+8. [k Sum II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/k%20Sum%20II)  
+
+===
+### String
+1. [Reverse Words In a String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Reverse%20Words%20in%20a%20String)
+2. [Add Binary](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Add%20Binary)
 
 
 
