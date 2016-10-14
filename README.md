@@ -116,6 +116,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 3. [Two Strings Are Anagrams](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Two%20Strings%20Are%20Anagrams)
 4. [Anagrams](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Anagrams)
 5. [Compare Strings](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Compare%20Strings)
+6. [Count and Say](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Count%20and%20Say)
 
 
 
