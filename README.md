@@ -125,6 +125,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 10. [Rotate String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Rotate%20String)
 11. [Restore IP Addresses](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Restore%20IP%20Addresses) **Need Review**
 12. [Letter Combinations of a Phone Number](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Letter%20Combinations%20of%20a%20Phone%20Number)
+13. [Space Replacement](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Space%20Replacement)
 
 
 
