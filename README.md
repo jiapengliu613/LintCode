@@ -120,6 +120,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 7. [Decode Ways](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Decode%20Ways)
 8. [Distinct Subsequences](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Distinct%20Subsequences)
 9. [Edit Distance](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Edit%20Distance)
+10. [Rotate String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Rotate%20String)
 
 
 
