@@ -128,6 +128,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 13. [Space Replacement](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Space%20Replacement)
 14. [Longest Words](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Words)
 15. [Scramble String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Scramble%20String)(`Memorized Search/Interval Type/DP`) **Need Review!**
+16. [Length of Last Word](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Length%20of%20Last%20Word)
 
 
 
