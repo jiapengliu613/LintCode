@@ -112,6 +112,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 9. [Restore IP Addresses](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Restore%20IP%20Addresses) **Need Review**
 10. [Letter Combinations of a Phone Number](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Letter%20Combinations%20of%20a%20Phone%20Number)
 11. [Permutations II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Permutations%20II) **Need Review**
+12. [N-Queens](https://github.com/jiapengliu613/LintCode/tree/master/Problems/N-Queens)
 
 ===
 ### String
