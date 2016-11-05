@@ -56,6 +56,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 18. [Wiggle Sort](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Wiggle%20Sort)         
     *Follow Up* : [Wiggle Sort II](https://github.com/jiapengliu613/LintCode/blob/master/Problems/Wiggle%20Sort%20II/Solution.java)    
 19. [Wiggle Sort II](https://github.com/jiapengliu613/LintCode/blob/master/Problems/Wiggle%20Sort%20II/Solution.java) **Need Review**
+20. [Spiral Matrix](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Spiral%20Matrix)
 
 ===
 ## Dynamic Programming 
