@@ -95,6 +95,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 3. [Build Post Office](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office) **Need Review**  
 *Follow up* : [Build Post Office II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office%20II)   
 *Follow up* : [Bomb Enemy](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Bomb%20Enemy)  
+4. [Maximum Number in Mountain Sequence](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Maximum%20Number%20in%20Mountain%20Sequence)
 
 
 ===
