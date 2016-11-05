@@ -9,6 +9,7 @@
 6. [Tweaked Identical Binary Tree](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Tweaked%20Identical%20Binary%20Tree)(`Recursion/Tree`)
 7. [Segment Tree Build](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Segment%20Tree%20Build)(`Recursion/Tree`)
 8. [Lowest Common Ancestor](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Lowest%20Common%20Ancestor)
+9. [Invert Binary Tree](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Invert%20Binary%20Tree)
 
 ### Heap/HashHeap
 1. [Planes In The Sky](https://github.com/jiapengliu613/LintCode/tree/master/Problems/PlanesInTheSky) (`sweep line/heap`)
