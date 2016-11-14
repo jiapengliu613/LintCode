@@ -86,7 +86,8 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 19. [Maximum Subarray](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Maximum%20Subarray) (`Rolling Array`)
 20. [Longest Palindromic Substring](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Longest%20Palindromic%20Substring) **Need Review**
 21. [Number of Ways to Represent N Cents](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Number%20of%20Ways%20to%20Represent%20N%20Cents)
-22. [ Backpack III](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Backpack%20III)
+22. [Backpack III](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Backpack%20III)
+23. [Backpack IV](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Backpack%20IV)
 
 
 
