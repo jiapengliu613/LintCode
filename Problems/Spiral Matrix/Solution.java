@@ -36,18 +36,7 @@ public class Solution {
                 return re;
             riCol--; boRow--; leCol++; upRow++;
         }
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+   
   
     }
     
