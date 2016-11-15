@@ -89,6 +89,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 22. [Backpack III](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Backpack%20III)
 23. [Backpack IV](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Backpack%20IV)
 24. [Backpack V](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Backpack%20V)
+25. [Backpack VI](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Backpack%20VI)
 
 
 
