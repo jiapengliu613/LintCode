@@ -1,5 +1,11 @@
 # LintCode 
 ## Data Structure 
+
+### LinkedList
+1. [Reverse Linked List](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Reverse%20Linked%20List)
+2. [Reverse Linked List II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Reverse%20Linked%20List%20II)
+
+
 ### Tree
 1. [Maximum Depth of Binary Tree](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Maximum%20Depth%20of%20Binary%20Tree) (`Recursion/Tree`)  
 2. [Balanced Binary Tree](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Balanced%20Binary%20Tree)(`Recursion/Tree`) 
@@ -111,7 +117,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 1. [Build Post Office II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Build%20Post%20Office%20II) **Neew Review**  
 
 ===
-### DFS
+## DFS
 1. [Word Search](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Word%20Search)
 2. [Subsets](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subsets)
 3. [Subsets II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Subsets%20II)
@@ -126,7 +132,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 12. [N-Queens](https://github.com/jiapengliu613/LintCode/tree/master/Problems/N-Queens)
 
 ===
-### String
+## String
 1. [Reverse Words In a String](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Reverse%20Words%20in%20a%20String)
 2. [Add Binary](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Add%20Binary)
 3. [Two Strings Are Anagrams](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Two%20Strings%20Are%20Anagrams)
@@ -145,9 +151,9 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 16. [Length of Last Word](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Length%20of%20Last%20Word)
 
 ===
-### LinkedList
-1. [Reverse Linked List](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Reverse%20Linked%20List)
-2. [Reverse Linked List II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Reverse%20Linked%20List%20II)
+## Bit Operation
+1. [A + B Problem](https://github.com/jiapengliu613/LintCode/tree/master/Problems/A%20%2B%20B%20Problem) **Need Review**
+
 
 
 
