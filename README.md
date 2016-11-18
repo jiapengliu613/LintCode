@@ -151,7 +151,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 16. [Length of Last Word](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Length%20of%20Last%20Word)
 
 ===
-## Bit Operation
+## Mathmatics/Bit Operation
 1. [A + B Problem](https://github.com/jiapengliu613/LintCode/tree/master/Problems/A%20%2B%20B%20Problem) **Need Review**
 
 
