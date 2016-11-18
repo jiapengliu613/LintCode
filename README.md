@@ -153,6 +153,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 ===
 ## Mathmatics/Bit Operation
 1. [A + B Problem](https://github.com/jiapengliu613/LintCode/tree/master/Problems/A%20%2B%20B%20Problem) **Need Review**
+2. [Trailing Zeros](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Trailing%20Zeros)
 
 
 
