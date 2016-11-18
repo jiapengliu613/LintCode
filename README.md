@@ -22,6 +22,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 7. [Data Stream Median](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Data%20Stream%20Median) **Need Review**  
 *Follow up* : [Sliding Window Median](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Sliding%20Window%20Median)
 8. [Sliding Window Median](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Sliding%20Window%20Median) **Need Review**
+9. [Ugly Number II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Ugly%20Number%20II)
 
 ### Stack
 1. [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram) (`Monotone Stack`) **Need Review**  
@@ -30,6 +31,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 ### Deque
 1. [Sliding Window Maximum](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Sliding%20Window%20Maximum) (`Monotone stack`) **Need Review**  
 *Related Problem* : [Largest Rectangle in Histogram](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Largest%20Rectangle%20in%20Histogram)
+
 
 
 ===
