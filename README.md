@@ -68,6 +68,7 @@ Similar problem : [Kth Smallest Number in Sorted Matrix](https://github.com/jiap
 20. [Spiral Matrix](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Spiral%20Matrix)
 21. [Rotate Image](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Rotate%20Image)
 22. [Remove Duplicates from Sorted Array II](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Remove%20Duplicates%20from%20Sorted%20Array%20II)
+23. [Merge Two Sorted Arrays](https://github.com/jiapengliu613/LintCode/tree/master/Problems/Merge%20Two%20Sorted%20Arrays)
 
 ===
 ## Dynamic Programming 
